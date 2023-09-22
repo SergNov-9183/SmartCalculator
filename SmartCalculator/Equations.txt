@@ -1,0 +1,65 @@
+#1 easy
+x = (2+4j)-(3+6j)
+
+#2 easy
+result = abs((2+4j)-(3+6j))
+
+#3 easy
+value = (2+4j)-pow((3+6j),(2-8j))
+
+# PI value
+PI = ln(-1)/j
+
+#5 
+V = -PI*R^2
+R = 1/(cos(alpha))
+alpha = 4-3*e+PI^2
+
+# Condenser capacity (in nanoFarades)
+c = eps*eps0*S/d*10^9
+eps = 10
+eps0 = 8.85*10^(-12)
+S = 0.000064
+d = 0.002
+
+# The force of gravity
+Fg = G*Ms*Me/Ro^2
+Ms = 1.9891*10^30
+Me = 5.97*10^24
+G = 6.67*10^(-11)
+Ro = 149.6*10^9
+
+#8
+result = 5*pow(x,y-3)-2/(10-y)
+x = PI*(1/e+y^ln(5))
+y = 1.539+7.37j
+
+#9
+Ro = sqrt(pow((e*PI)^PI,2)+pow((cos(sin(R))),2)))
+R = sqrt(A+B)
+A = -7j
+B = 6.1+4.9j
+
+#10
+x = exp(-j*PI*alpha*len/v0+pow((len*7.92),s1/10))
+alpha = cos(PI*len/(s1+s2))
+s1 = cos(cos(S11)*ln(S22))
+s2 = pow(phase(S11*S22),2)
+len = -19.76
+v0 = 29.77
+S11 = -0.01-5j
+S22 = 0.06+0.5j
+
+#11 strike
+answer = abs(a+b-c+d)/E
+E = phase(ln(a-b)^log(pow(a,real(b))))
+d = cos(1/sin(real(a+b)*sqrt(a)))
+c = tg(a/log(b)^ln(imag(a)))
+a = 1.79+21j
+b = -3.32-3j
+
+#12 strike
+answer = 3/0
+
+#13 strike
+answer = 3+2/(2/0)
